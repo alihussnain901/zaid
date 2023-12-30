@@ -1,0 +1,1 @@
+this is to tesst weather it work without config or not 
